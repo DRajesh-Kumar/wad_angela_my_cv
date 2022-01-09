@@ -1,0 +1,7 @@
+1. Open a html file, save it and type html and press the enter key for the boiler plate code...
+2. https://docs.emmet.io/cheat-sheet/
+3. https://unicode-table.com/en/sets/hearts-symbols/
+4. <meta name="viewport" content="width=device-width, initial-scale=1.0">
+5. crop-circle.imageonline.co
+6. windows + . 	(or)	windows + ;	opens the emoji screen to type emojis
+7. 
